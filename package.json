@@ -1,5 +1,5 @@
 {
-  "name": "grpc-caller",
+  "name": "@eeston/grpc-caller",
   "version": "0.13.0",
   "description": "An improved Node.js gRPC client",
   "main": "lib/index.js",
@@ -10,17 +10,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bojand/grpc-caller.git"
+    "url": "git+https://github.com/eeston/grpc-caller.git"
   },
   "author": {
     "name": "Bojan D.",
     "email": "dbojan@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "John Easton",
+      "email": "john@easton.dev"
+    }
+  ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/bojand/grpc-caller/issues"
+    "url": "https://github.com/eeston/grpc-caller/issues"
   },
-  "homepage": "https://github.com/bojand/grpc-caller",
+  "homepage": "https://github.com/eeston/grpc-caller",
   "keywords": [
     "protocol buffer",
     "protobuf",
