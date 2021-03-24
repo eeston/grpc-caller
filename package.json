@@ -6,7 +6,8 @@
   "scripts": {
     "test": "ava -v",
     "docs": "jsdoc2md lib/*.js --heading-depth 3 --template readme.hbs > README.md",
-    "lint.fix": "standard --fix"
+    "lint.fix": "standard --fix",
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -48,6 +49,7 @@
   "devDependencies": {
     "@grpc/grpc-js": "^1.2.10",
     "ava": "^3.15.0",
+    "git-cz": "^4.7.6",
     "google-protobuf": "^3.8.0",
     "greenkeeper-lockfile": "^1.15.0",
     "jsdoc-to-markdown": "^5.0.0",
