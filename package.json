@@ -52,7 +52,7 @@
     "git-cz": "^4.7.6",
     "google-protobuf": "^3.8.0",
     "greenkeeper-lockfile": "^1.15.0",
-    "jsdoc-to-markdown": "^5.0.0",
+    "jsdoc-to-markdown": "^7.0.1",
     "standard": "^16.0.3"
   },
   "directories": {
