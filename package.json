@@ -35,7 +35,7 @@
     "client"
   ],
   "dependencies": {
-    "@grpc/proto-loader": "^0.5.6",
+    "@grpc/proto-loader": "^0.6.1",
     "async": "^3.2.0",
     "call-me-maybe": "^1.0.1",
     "grpc-create-metadata": "^4.0.0",
